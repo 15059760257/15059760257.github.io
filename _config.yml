@@ -93,8 +93,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "代刷网",
-        href: "http://52ds.svipqq.com"
+        title: "IT资讯",
+        #href: ""
     },{
         title: "简书·FructusUlmi",
         href: "http://www.jianshu.com/u/e444a43da8e9"
